@@ -1,5 +1,5 @@
 <h1>Welcome to My Website</h1>
-<p>This website was built using <strong>ReactJS</strong> and <strong>Tailwind</strong>, which are both powerful tools to create interactive and attractive web pages. I also included gradient elements in the design, which adds an extra touch of beauty and sophistication to the overall look of the website.</p>
+<p>This website was built using <strong>ReactJS</strong> and <strong>Tailwind</strong>, which are both powerful tools to create interactive and attractive web pages. </p>
 <h2>Getting Started</h2>
 <p>To get started with this website, you will need to have <strong>Node.js</strong> and <strong>npm</strong> (Node Package Manager) installed on your computer. Once you have those set up, follow these steps:</p>
 <ol>
